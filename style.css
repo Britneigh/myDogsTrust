@@ -1,12 +1,19 @@
 body{background-color: cadetblue;}
 
-.container{
+#cardholder{
     display: flex;
     justify-content: space-evenly;
     flex-wrap: wrap;
     width: 100%;
 }
 
-.dogName{
+.mainHeader {
+    text-align: center;
+    font-family: Helvetica;
+    text-decoration: underline;
+    font-size: 40px;
+}
+
+h1 {
     text-align: center;
 }
